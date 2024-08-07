@@ -1,8 +1,7 @@
 ## bem vido ao meu perfil :) 👋
 
 <!--![]()
-![]<img src="https://media1.tenor.com/m/nAMuwsQmPecAAAAC/clash-royale.gif" alt="Clash Royale GIF"/>![image](https://github.com/user-attachments/assets/a38675e7-c79c-4d8a-86bc-0065bc2e1f08)
-
+![]<<img src="https://media1.tenor.com/m/nAMuwsQmPecAAAAC/clash-royale.gif" alt="Clash Royale GIF"/>![Uploading image.png…]()
 
 **guilherme7632/guilherme7632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
